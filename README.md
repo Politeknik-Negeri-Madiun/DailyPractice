@@ -1,2 +1,5 @@
-# DailyPractice
-project untuk latihan PM1 git SCM
+# Pemrograman Mobile 1
+'''Ini repository untuk project Daily Practice'''
+
+# Copyright
+by Angger Binuko
